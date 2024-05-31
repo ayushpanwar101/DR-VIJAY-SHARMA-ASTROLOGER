@@ -1,0 +1,59 @@
+.navbar{
+    background-color:#000000;
+    border-radius: 30px;
+    font-size: 20px;
+}
+    .nvul{
+        overflow: auto;
+    }
+    .op{
+        float: left;
+        padding: 15px 20px ;
+        margin: 10px 15px;
+        list-style: none;
+        font-weight: bold;
+    }
+    .navbar li a{
+            text-decoration: none;
+            color: white;
+    }
+    #lo{
+        font-size: 25px;
+        text-shadow: 2px 2px 10px;
+    }
+    a:hover{ background-color: rgb(147, 92, 92);
+        
+    }
+    #search{
+        float: right;
+        margin: 20px 25px ;
+        border-radius: 20px;
+        border: 2px solid gray;
+    }
+    h1{
+        text-align: center;
+        color: rgb(255, 0, 0);
+        text-shadow: 2px 2px 10px;
+    }
+    .contanier{
+        font-size: 25px;
+    }
+#this a{
+      text-shadow: 4px gray;
+}
+p{
+    text-align: center;
+    font-style: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.lor{
+    text-shadow: 2px 2px 10px;
+}
+.box {
+    width: 50px;
+    height: 50px;
+    padding: 20px;
+    margin:13px;
+    background:url();
+    border: 2px solid black;
+}
